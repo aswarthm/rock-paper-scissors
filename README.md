@@ -1,5 +1,5 @@
 # rock-paper-scissors
-rock paper scissors game in Java
+Rock Paper Scissors game in Java
 
 1)Enter how many rounds you want play  
 2)Enter your move Rock, Paper, Scissors  
